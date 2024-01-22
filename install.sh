@@ -1,0 +1,1 @@
+pip install dist/ssi_fc_data-2.2.1.tar.gz && pip install pymongo
